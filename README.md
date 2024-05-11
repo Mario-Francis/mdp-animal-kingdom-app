@@ -1,4 +1,4 @@
-# Sport News App
+# Animal Kingdom App
 #### A simple native android app.
 
 #### Screenshots
